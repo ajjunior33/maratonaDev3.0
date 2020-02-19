@@ -29,3 +29,7 @@ yarn dev
 
 Para mais informações de configuração, segue o video que usei!
 [Vídeo](https://www.youtube.com/watch?v=Phkf71aZL7A)
+
+
+### Desafio extra
+[ ] Colocar notificação para quando der mensagem de erro ou sucesso
