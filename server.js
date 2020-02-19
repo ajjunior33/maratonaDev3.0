@@ -16,7 +16,7 @@ nunjucks.configure("./",{
 
 const donors = [
     {
-        name: "Diego Fernandes",
+        name: "Ana Clara",
         blood: "AB+"
     },
     {
