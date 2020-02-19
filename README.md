@@ -32,4 +32,4 @@ Para mais informações de configuração, segue o video que usei!
 
 
 ### Desafio extra
-[] Colocar notificação para quando der mensagem de erro ou sucesso
+[ ]Colocar notificação para quando der mensagem de erro ou sucesso
