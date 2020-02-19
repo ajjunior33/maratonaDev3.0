@@ -1,0 +1,15 @@
+{
+  "name": "maratonaDev3.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ajjunior33/maratonaDev3.0.git",
+  "author": "<ajjunior33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
