@@ -5,6 +5,9 @@
   "repository": "https://github.com/ajjunior33/maratonaDev3.0.git",
   "author": "<ajjunior33@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.0"
